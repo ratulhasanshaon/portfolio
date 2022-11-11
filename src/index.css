@@ -85,8 +85,8 @@ video {
 }
 
 .SecondarBtn:hover {
-  background: rgb(57, 134, 250);
-  color: #fff;
+  background: greenyellow;
+  color: #010606;
 }
 
 .btn2 {
