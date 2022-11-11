@@ -57,3 +57,25 @@ export const stackList = [
   },
   
 ];
+
+// --------------------------------------- Certification List
+export const CertificationList = [
+  {
+    img: "/Assets/springer.jpg",
+    title: "A Digital Platform Design for Supply Chain of Existing Fish Market in Bangladesh",
+    description: "Proceedings of International Joint Conference on Computational Intelligence",
+    details:" Part of the Algorithms for Intelligent Systems book series (AIS)",
+    tech_stack: "Springer Nature Singapore ",
+    github_url: "https://link.springer.com/chapter/10.1007/978-981-15-3607-6_40",
+    demo_url: "",
+  },
+  {
+    img: "/Assets/ai.jpg",
+    title: "Introduction to Artificial Intelligence (AI)",
+    description: "Certification",
+    tech_stack: "Coursera",
+    github_url: "https://www.coursera.org/account/accomplishments/certificate/K5QNAGP8BC55",
+    demo_url: "",
+  },
+  
+];
